@@ -1,5 +1,5 @@
 
-# **A Step-by-Step Guide to Opening folders with VS Code via Right-Click in Linux**
+# **A Step-by-Step Guide to Opening folders with VS Code via Right-Click on folders in Linux**
 	
 <br>
 
