@@ -1,5 +1,5 @@
 <p align="center">
-# A Step-by-Step Guide to Opening VS Code via Right-Click in Linux
+# **A Step-by-Step Guide to Opening VS Code via Right-Click in Linux**
 </p>	
 
 <br>
