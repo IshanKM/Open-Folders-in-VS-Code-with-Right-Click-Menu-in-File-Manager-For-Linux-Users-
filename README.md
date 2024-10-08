@@ -1,0 +1,1 @@
+# Open-Folders-in-VS-Code-with-Right-Click-Menu-in-File-Manager-For-Linux-Users-
