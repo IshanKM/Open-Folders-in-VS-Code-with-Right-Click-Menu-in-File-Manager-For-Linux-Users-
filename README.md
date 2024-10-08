@@ -1,4 +1,8 @@
+<p align="center">
 # A Step-by-Step Guide to Opening VS Code via Right-Click in Linux
+</p>	
+
+<br>
 
 <p align="center">
   <img alt="full stack" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*Nb8Lo_BFJZxu6n0r8JHkkg.png">
