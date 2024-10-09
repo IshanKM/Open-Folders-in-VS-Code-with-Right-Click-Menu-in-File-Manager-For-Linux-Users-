@@ -83,7 +83,7 @@ Let’s Start the guide.
 
 > nautilus -q
 
-**5.Open the file manager and right-click to see if it works .
+**5.Open the file manager and right-click to see if it works**
 ## Thank you..!
 
 
